@@ -1,0 +1,30 @@
+generated: '2026-07-21'
+method: probed
+source: live HTTP probes of https://wx-visionpro.com
+note: >-
+  wx-visionpro.com is served behind a China-based CDN (Tengine / Kunlun,
+  CNAME wx-visionpro.com.w.kunluncan.com) that returns HTTP 429 Too Many
+  Requests to all requests from outside China, including the site root.
+  Every well-known path below returned 429, so no well-known artifacts
+  could be verified or saved. Statuses recorded honestly; re-probe from a
+  China vantage point would be required to confirm actual presence/absence.
+host: wx-visionpro.com
+probes:
+- path: /.well-known/security.txt
+  status: 429
+  file: null
+- path: /.well-known/openid-configuration
+  status: 429
+  file: null
+- path: /.well-known/oauth-authorization-server
+  status: 429
+  file: null
+- path: /.well-known/api-catalog
+  status: 429
+  file: null
+- path: /.well-known/ai-plugin.json
+  status: 429
+  file: null
+- path: /llms.txt
+  status: 429
+  file: null

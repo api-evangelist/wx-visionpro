@@ -1,0 +1,25 @@
+# Wuxi Vision Pro (无锡蕾明视康科技有限公司)
+
+> Wuxi Vision Pro Co., Ltd. (蕾明视康), founded in 2010, is a Chinese ophthalmic
+> medical device company that develops, manufactures, and sells intraocular
+> lenses (IOLs) and other high-end ophthalmic consumables. The company focuses
+> on foldable intraocular lens R&D and industrialization, building mid- to
+> high-end IOL product lines to substitute imported products in the Chinese
+> market. Headquartered in Wuxi (Binhu District) with a branch office in
+> Shanghai. Backed by Qiming Venture Partners.
+
+Wuxi Vision Pro is a medical device manufacturer, not an API provider. No
+public developer portal, API documentation, machine-readable API artifacts,
+client packages, or GitHub organization were found for this company. Its
+website (https://wx-visionpro.com) is served from a China-based CDN that
+returns HTTP 429 to requests from outside China.
+
+## Company
+
+- [Website](https://wx-visionpro.com): Corporate site (Chinese; geo-restricted, HTTP 429 outside China)
+- [Contact](https://wx-visionpro.com/lxwm): Contact page — Wuxi HQ: 楝泽路29号科教软件园17号楼, Binhu District, Wuxi; Shanghai branch: 陕西北路1438号1709室; email sales@wx-visionpro.com
+
+## APIs
+
+None found. This profile exists in the API Evangelist network as a
+Qiming Venture Partners portfolio company lead.
